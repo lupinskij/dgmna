@@ -1,7 +1,5 @@
-Gulp Boilerplate
+DGM Landing
 =======
-
-GulpJS Boilerplate
 
 ## Installation
 - Install [node.js](http://nodejs.org)
